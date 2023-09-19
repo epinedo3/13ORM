@@ -9,9 +9,9 @@ In order to install this repository you will need to navigate into my github "ht
 ## Usage
 To find my github, click [here](https://github.com/epinedo3/13ORM).
 
-To find my deployed website, click [here](https://epinedo3.github.io/13ORM/).
+<!-- To find my deployed website, click [here](https://epinedo3.github.io/13ORM/). -->
 
-To find my deployement video, click [here](?).
+To find my deployement video, click [here](https://drive.google.com/file/d/1eycWveDBlUdyyjH41zThJRa_E23DECKa/view).
 
 ## Screenshot
 N/A
